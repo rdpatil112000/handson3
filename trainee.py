@@ -1,0 +1,9 @@
+TRAINEE DETAILS
+
+ID    NAME
+1     RAHUL
+2     VISHAL
+3     OMKAR
+4     NIKHIL
+5     OMAR
+6     MANJU
